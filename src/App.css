@@ -91,3 +91,8 @@
       margin: 4rem 2rem;
     }  
   }
+
+  .gpt3__hover-effect:hover {
+    transform: scale(1.1);
+    transition: all 0.3s cubic-bezier(0.23, 1, 0.320, 1);
+  }

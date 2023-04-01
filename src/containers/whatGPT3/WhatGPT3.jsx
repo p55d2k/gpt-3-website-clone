@@ -6,7 +6,7 @@ const WhatGPT3 = () => {
   return (
     <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
       <div className="gpt3__whatgpt3-feature">
-        <Feature title="What is GPT-3?" text="GPT-3 is an autoregressive language model that uses deep learning to produce human-like text. It is the latest in a series of language models developed by OpenAI, a San Francisco-based artificial intelligence research lab. GPT-3 is the largest language model ever created, with over 175 billion parameters and 45GB of text data."  />
+        <Feature title="What is GPT-3?" text="GPT-3 is an autoregressive language model that uses deep learning to produce human-like text. It is the latest in a series of language models developed by OpenAI, a San Francisco-based artificial intelligence research lab. GPT-3 is the largest language model ever created, with over 175 billion parameters and 45GB of text data." showBorder='false' showAnim='false' />
       </div>
       <div className="gpt3__whatgpt3-heading">
         <h1 className="gradient__text">The possibilities are beyond your imagination</h1>
